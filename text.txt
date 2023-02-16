@@ -8,3 +8,4 @@ sixth commit | br1
 
 first commit | clone br1
 second commit | clone br1
+third commit | clone br1
